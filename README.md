@@ -39,9 +39,10 @@
 ### 🧠 Galaxy Brain
 | Tier | Accepted answers |
 |---|---|
-| Default | 8 |
-| 🥉 Bronze | 16 |
-| 🥈 Silver | 32 |
+| 🔘 Default | 2 |
+| 🥉 Bronze | 8 |
+| 🥈 Silver | 16 |
+| 🥇 Gold | 32 |
 
 ---
 
