@@ -180,12 +180,12 @@ The script includes 35 built-in Q&A pairs and shuffles them on each run. You can
 
 ```
 BadgeSmith/
-├── README.md
 ├── LICENSE
-├── requirements.txt
-├── pull_shark.py
+├── README.md
+├── galaxy_brain.py
 ├── pair_extraordinaire.py
-└── galaxy_brain.py
+├── pull_shark.py
+└── requirements.txt
 ```
 
 ---
